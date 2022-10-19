@@ -1,3 +1,4 @@
+#Menu de cadastro de nomes
 nomes = []
 print('-'*30)
 print('Bem vindo ao cadastra nome')
